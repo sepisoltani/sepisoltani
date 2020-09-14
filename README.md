@@ -2,7 +2,7 @@
 
 - 📫 How to reach me: 
 - [Telegram](https://t.me/sepisoltani): https://t.me/sepisoltani
-- [gmail](mailto:sph_1996@yahoo.com): sph_1996@yahoo.com
+- [email](mailto:sph_1996@yahoo.com): sph_1996@yahoo.com
 
 
 <!--
