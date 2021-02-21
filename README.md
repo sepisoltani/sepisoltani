@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 
 
-My skills are : 
+- 🔭 I’m currently working on ...
 - PHP (mostly Laravel framework)
 - NOSQL and RDBMS databases (MYSQL-MONGO-REDIS)
 - Linux servers (Centos and Ubuntu)
