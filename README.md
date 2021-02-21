@@ -3,6 +3,8 @@
 - 📫 How to reach me: 
 - [Telegram](https://t.me/sepisoltani): https://t.me/sepisoltani
 - [email](mailto:sph_1996@yahoo.com): sph_1996@yahoo.com
+- [Linkedin](https://www.linkedin.com/in/sepisoltani): https://www.linkedin.com/in/sepisoltani
+
 
 
 <!--
