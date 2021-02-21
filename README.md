@@ -24,3 +24,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+My skills are : 
+PHP (mostly Laravel framework)
+NOSQL and RDBMS databases (MYSQL-MONGO-REDIS)
+Linux servers (Centos and Ubuntu)
+Version Control System (GIT) 
+Platform (mostly DOCKER)
+Webservers ( mostly NGINX) 
