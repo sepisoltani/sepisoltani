@@ -1,5 +1,3 @@
-[![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sepisoltani)](https://github.com/anuraghazra/github-readme-stats)
-
 ### 🌐 Connect with Me:
 - **Email:** [sepehr.develop@gmail.com](mailto:sepehr.develop@gmail.com)
 - **LinkedIn:** [sepisoltani](https://www.linkedin.com/in/sepisoltani)
